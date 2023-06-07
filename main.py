@@ -1,4 +1,4 @@
-#Leroy & Ethan's CAT
+#Leroy & Ethan's CATj
 import random 
 global answer
 answer = 0
